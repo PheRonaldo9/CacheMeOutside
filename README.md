@@ -113,8 +113,8 @@ The script performs the following operations:
 1. Ensure PostgreSQL is running and the database is set up.
 2. Prepare your CSV files (`courses.csv` and `students.csv`).
 3. Execute the SQL script to set up the database.
-4. Run the `import.sh` script to import the data.
-5. Run the `query_info.sh` script to query specific information from the database.
+4. Run the `insert_data_bash_script.sh` script to import the data.
+5. Run the `student_info.sh` script to query specific information from the database.
 
 ---
 
