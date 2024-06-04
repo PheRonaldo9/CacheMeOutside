@@ -2,7 +2,7 @@
 ---
 
 # Students Database
-This project includes a PostgreSQL script and two Bash scripts to manage information about computer science students in a PostgreSQL database.
+This project includes a PostgreSQL script and two Bash scripts to manage and query data about computer science students in a PostgreSQL database.
 
 ---
 
